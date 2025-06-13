@@ -1,111 +1,100 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nature Future Vision Project</title>
-    <style>
-        body {
-            background: linear-gradient(135deg, #9945FF, #14F195);
-            color: white;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-        header {
-            padding: 20px;
-        }
-        h1 {
-            font-size: 2.5em;
-        }
-        .gallery {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            padding: 20px;
-        }
-        .nft {
-            margin: 10px;
-            border: 2px solid white;
-            border-radius: 10px;
-            overflow: hidden;
-            transition: box-shadow 0.3s ease;
-        }
-        .nft:hover {
-            box-shadow: 0 0 20px white;
-        }
-        .nft img {
-            max-width: 250px;
-            height: auto;
-            display: block;
-        }
-        .caption {
-            padding: 10px;
-            font-weight: bold;
-        }
-        .magiceden-link {
-            display: inline-block;
-            margin: 30px auto;
-            padding: 15px 25px;
-            background-color: white;
-            color: #000;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-            transition: background-color 0.3s ease;
-        }
-        .magiceden-link:hover {
-            background-color: #ccc;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nature Future Vision Project</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0e0b1f, #2c1f4a);
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 2em;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.2em;
+    }
+    p {
+      font-size: 1.2em;
+      margin-top: 0;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 2em;
+    }
+    .gallery-item {
+      border: 2px solid white;
+      padding: 10px;
+      transition: box-shadow 0.3s ease;
+    }
+    .gallery-item:hover {
+      box-shadow: 0 0 15px 5px #00ffa3;
+    }
+    .gallery-item img {
+      width: 100%;
+      height: auto;
+    }
+    .caption {
+      margin-top: 10px;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+    footer {
+      padding: 1em;
+      font-size: 0.9em;
+    }
+    a {
+      color: #00ffa3;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>NATURE FUTURE VISION PROJECT</h1>
-        <p>WELCOME / WILLKOMMEN</p>
-    </header>
-    <div class="gallery">
+  <header>
+    <h1>NATURE FUTURE VISION PROJECT</h1>
+    <p>DISCOVER OUR FANIMALS NFT COLLECTION</p>
+    <p><a href="https://magiceden.io/u/NFVPFREEANIMA" target="_blank">SEE OUR COLLECTION ON MAGIC EDEN</a></p>
+  </header>
 
-        <div class="nft">
-            <img src="images/NFVP_FANIMALS_01.jpg" alt="FANIMALS">
-            <div class="caption">FANIMALS</div>
-        </div>
-    
-        <div class="nft">
-            <img src="images/NFVP_FCOWS_02.jpg" alt="FCOWS">
-            <div class="caption">FCOWS</div>
-        </div>
-    
-        <div class="nft">
-            <img src="images/NFVP_FGOATS_03.jpg" alt="FGOATS">
-            <div class="caption">FGOATS</div>
-        </div>
-    
-        <div class="nft">
-            <img src="images/NFVP_FSHEEPS_04.jpg" alt="FSHEEPS">
-            <div class="caption">FSHEEPS</div>
-        </div>
-    
-        <div class="nft">
-            <img src="images/NFVP_FCHICKENS_05.jpg" alt="FCHICKENS">
-            <div class="caption">FCHICKENS</div>
-        </div>
-    
-        <div class="nft">
-            <img src="images/NFVP_FBEES_06.jpg" alt="FBEES">
-            <div class="caption">FBEES</div>
-        </div>
-    
-        <div class="nft">
-            <img src="images/NFVP_FANIMALS_07.jpg" alt="FANIMALS">
-            <div class="caption">FANIMALS</div>
-        </div>
-    
+  <section class="gallery">
+    <div class="gallery-item">
+      <img src="images/NFVP_FANIMALS_01.jpg" alt="FANIMALS">
+      <div class="caption">FANIMALS</div>
     </div>
-    <a class="magiceden-link" href="https://magiceden.io/u/NFVPFREEANIMA" target="_blank">
-        JETZT AUF MAGIC EDEN ANSEHEN
-    </a>
+    <div class="gallery-item">
+      <img src="images/NFVP_FCOWS_02.jpg" alt="FCOWS">
+      <div class="caption">FCOWS</div>
+    </div>
+    <div class="gallery-item">
+      <img src="images/NFVP_FGOATS_03.jpg" alt="FGOATS">
+      <div class="caption">FGOATS</div>
+    </div>
+    <div class="gallery-item">
+      <img src="images/NFVP_FSHEEPS_04.jpg" alt="FSHEEPS">
+      <div class="caption">FSHEEPS</div>
+    </div>
+    <div class="gallery-item">
+      <img src="images/NFVP_FCHICKENS_05.jpg" alt="FCHICKENS">
+      <div class="caption">FCHICKENS</div>
+    </div>
+    <div class="gallery-item">
+      <img src="images/NFVP_FBEES_06.jpg" alt="FBEES">
+      <div class="caption">FBEES</div>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Nature Future Vision Project – Powered by Solana
+  </footer>
 </body>
 </html>
