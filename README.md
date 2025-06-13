@@ -1,1 +1,64 @@
 # nature-future-vision-project
+🌱 NATURE FUTURE VISION PROJECT
+
+**Kostenlose NFT-Galerie im Solana-Stil – für eine nachhaltige, digitale Zukunft.**  
+🌍 Zweisprachig: ENGLISH / DEUTSCH
+
+---
+
+## 🎨 ÜBERSICHT
+
+Willkommen beim **NATURE FUTURE VISION PROJECT** – einer NFT-Website, die einzigartige digitale Kunstwerke aus der Reihe **FANIMALS** kostenlos präsentiert.  
+Ziel: Kunst, Tiere und Natur im Web3-Zeitalter verbinden – transparent, dezentral, frei verfügbar.
+
+🖼️ **10 NFTs** sind derzeit gelistet.  
+🔗 **Verfügbar auf Magic Eden:**  
+👉 [https://magiceden.io/marketplace/fanima](https://magiceden.io/marketplace/fanima) *(Link bitte anpassen)*
+
+---
+
+## 🧩 INHALT DER WEBSITE
+
+- ✅ **NFT-Galerie** mit Bildunterschriften (z. B. FANIMALS, FCOWS, FSHEEPS usw.)
+- ✅ **Originaldateien im Format:** `NFVP_FXXXX_XX.JPG`
+- ✅ **Zweisprachige Texte:** Englisch (oben) & Deutsch (direkt darunter)
+- ✅ **Kontaktformular** mit direktem Mail-Link
+- ✅ **Social Media Verlinkung:** Twitter, Instagram, Facebook
+- ✅ **Solana-Design** für modernes Look & Feel
+- ✅ **Free Hosting auf GitHub Pages**
+
+---
+
+## 🌐 DOMAIN UND HOSTING
+
+- GitHub Pages:  
+  **https://nature-future-vision-project.github.io**
+
+- Private Weiterleitung über IONOS-Domain möglich:  
+  z. B. `nfvp_example_domain.de` → GitHub-Seite
+
+---
+
+## 📬 KONTAKT
+
+Bei Fragen oder Kollaborationen:  
+📩 **nfvpfreeanima@web.de**
+
+---
+
+## 🔖 LIZENZ & RECHTE
+
+- Alle Inhalte sind kostenlos sichtbar.  
+- NFTs können über verlinkte Marktplätze erworben werden.  
+- Das Projekt basiert auf freien Web-Technologien (HTML, CSS, GitHub).
+
+---
+
+## 💬 MITMACHEN
+
+Pull Requests, Ideen und Sponsoring willkommen!  
+Füge dich ein – sei Teil der Vision!
+
+---
+
+© 2025 Nature Future Vision Project — *Free Digital Art For All*
